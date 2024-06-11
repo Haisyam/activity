@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "bangdompret@gmail.com"
-          git config --local user.name "domathid"
+          git config --local user.email "muhmadhaisyamkhairizmi@gmail.com"
+          git config --local user.name "Haisyam"
           git add -A
           
           arr[0]="feat: 😂 auto commit"
